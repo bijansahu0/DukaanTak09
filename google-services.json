@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669894446390",
+    "project_id": "dukaan-tak-f0a5e",
+    "storage_bucket": "dukaan-tak-f0a5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669894446390:android:869ec36438142e5a50f797",
+        "android_client_info": {
+          "package_name": "com.duakaantak.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669894446390-hjrhhb9pq5dc873pbon9i9tpsllf2rud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duakaantak.customer",
+            "certificate_hash": "54b9ee517a1cb962030ae18b6ccef52a8b7f4f88"
+          }
+        },
+        {
+          "client_id": "669894446390-g63v8mdkhd3am3gd4v6g2ho5nt3u1a0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_9JYeUaMRBXxyDpOngsv7ejunC1DV_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669894446390-g63v8mdkhd3am3gd4v6g2ho5nt3u1a0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

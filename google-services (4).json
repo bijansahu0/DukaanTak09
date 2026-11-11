@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669894446390",
+    "project_id": "dukaan-tak-f0a5e",
+    "storage_bucket": "dukaan-tak-f0a5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669894446390:android:869ec36438142e5a50f797",
+        "android_client_info": {
+          "package_name": "com.duakaantak.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_9JYeUaMRBXxyDpOngsv7ejunC1DV_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
